@@ -1,6 +1,10 @@
 # 723 week 7 part 1
 
-Homework Task:
-* have a rest
-* publish a link to Webinar (Week 6)
-  (Please, keep the workflow of viza, test2 project)
+<a href="https://www.youtube.com/watch?v=irrqzUm4yCo&feature=youtu.be
+" target="_blank"><img src="https://thumb.ibb.co/bYDVbV/Function-1.png" 
+alt="IMAGE ALT TEXT HERE" width="700" height="317" border="10" /></a>
+
+```R
+a = 22
+print (a)
+```
